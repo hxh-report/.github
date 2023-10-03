@@ -1,13 +1,22 @@
 # .github
 
+
 | Project : Project HxH
+
 | Hunter  : gon-freecss
+
 | HxH_ID  :
+
 | GitHub  : https://github.com/hxh-report/gon-freecss
+
 | Author  : Die-Antwoord
+
 | GitHub  : https://github.com/Die-Antwoord
+
 | Discord : 224320540402253824
+
 | Discord : dieantwoord1337
+
 | Discord : [![Discord](https://img.shields.io/badge/Discord-Server-000?style=for-the-badge&color=1a56bc&logo=Discord)][discord]
 
 <!--
